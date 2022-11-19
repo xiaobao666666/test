@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XJJTools_Tests' do
+  pod 'XJJTools', :path => '../'
+  
+  
+end

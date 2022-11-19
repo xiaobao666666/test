@@ -1,0 +1,22 @@
+{
+  "name": "XJJTools",
+  "version": "0.1.0",
+  "summary": "A short description of XJJTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaojiabao/XJJTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaojiabao": "xiaojiabao@bianfeng.com"
+  },
+  "source": {
+    "git": "https://github.com/xiaojiabao/XJJTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "XJJTools/Classes/**/*"
+}
