@@ -1,6 +1,6 @@
 use_frameworks!
+ pod 'AFNetworking', '~> 2.3'
 target 'XJJTools_Tests' do
-  pod 'XJJTools', :path => '../'
-  
+
   
 end

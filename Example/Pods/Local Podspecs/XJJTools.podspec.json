@@ -1,9 +1,9 @@
 {
   "name": "XJJTools",
-  "version": "0.1.0",
-  "summary": "A short description of XJJTools.",
+  "version": "0.0.1",
+  "summary": "工具类",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/xiaojiabao/XJJTools",
+  "homepage": "https://github.com/xiaobao666666/test",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,16 @@
     "xiaojiabao": "xiaojiabao@bianfeng.com"
   },
   "source": {
-    "git": "https://github.com/xiaojiabao/XJJTools.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/xiaobao666666/test.git",
+    "tag": "0.0.1"
   },
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "XJJTools/Classes/**/*"
+  "source_files": "XJJTools/Classes/*.{h,m}",
+  "dependencies": {
+    "AFNetworking": [
+      "~> 2.3"
+    ]
+  }
 }

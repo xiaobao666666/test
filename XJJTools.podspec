@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XJJTools'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '工具类'
 
   s.description      = <<-DESC
@@ -26,5 +26,5 @@ TODO: Add long description of the pod here.
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.dependency 'AFNetworking', '~> 2.3'
 end
